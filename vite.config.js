@@ -11,9 +11,9 @@ export default defineConfig({
     injectRegister: 'auto',
     includeAssets: ['/public/android','/public/ios','/public/windows11'],
     manifest: {
-      name: 'APLICACION GENERADORA DE HOROSCOPO CON PWA',
-      short_name: 'pwa horoscopo',
-      description: 'React an vite pwa with pluggins',
+      name: 'APLICACION DE BAZAR ONLINE',
+      short_name: 'pwa bazar',
+      description: 'React an vite pwa',
       theme_color: '#ffffff',
       "icons": [
         {
